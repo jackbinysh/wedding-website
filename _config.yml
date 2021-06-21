@@ -2,9 +2,9 @@ url: http://www.alexandkealie.com/
 baseurl: ''
 
 # Site settings
-title: "#kealex2016"
-email: wedding@pretzlav.com
-description: "Alex Pretzlav and Kealie Goodwin are getting married in Piedmont, CA on June 18, 2016"
+title: "#JECKY2022"
+email: jack.binysh@gmail.com
+description: "Jack Binysh and Becky Knott are getting married in Oxford on June 25, 2022"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -14,8 +14,8 @@ color:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/apretz
+    #  - title: twitter
+    #url: http://twitter.com/apretz
 
 # Build settings
 markdown: kramdown
