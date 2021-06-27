@@ -1,0 +1,106 @@
+/* ==========================================================================
+RSVP form
+========================================================================== */
+@import "partials/buttons";
+@import "partials/colors";
+@import "partials/layout";
+
+// Text colours
+$txt-primary: rgba(28, 54, 83, 0.6);
+// body font
+$txt-secondary: #3D4351;
+// heading font
+$txt-light: #fff;
+// header/hero
+$txt-accent: #ACB1B4;
+$form-placeholder: #BCC1C3;
+// form placeholder text
+// Global colours
+$accent-color: #e8ca6f;
+// global accent colour
+$accent-color-hover: #d3b56a;
+// global accent colour hover
+$white-color: #fff;
+$black-color: #000;
+// Typography colours
+$h2-color: #3D4351;
+$h3-color: #3D4351;
+$h5-color: #3D4351;
+// Layout colours
+$section-light: #fff;
+$section-dark: #f8f9fd;
+$to-top-bg: #495061;
+$footer-primary: #3D4351;
+$footer-secondary: #373D4A;
+// Keylines
+$keyline-color: #E6E9EA;
+$footer-keyline-color: #4E566C;
+
+
+
+.rsvp {
+    padding-bottom: 140px;
+    .rsvp-form {
+        .rsvp-btn {
+            padding: 15px 0;
+            border-radius: 3px;
+            width: 100%;
+            font-size: 13px;
+        }
+        .form-input-group {
+            width: 100%;
+            height: 55px;
+            margin: 0 auto 10px;
+            -moz-border-radius: 5px;
+            -webkit-border-radius: 5px;
+            border-radius: 5px;
+            border: solid 1px $keyline-color;
+            text-align: left;
+            position: relative;
+
+            i {
+                color: $accent-color;
+                font-size: 14px;
+            }
+            i:after {
+                content: "";
+                height: 30px;
+                width: 1px;
+                border-right: solid 1px $keyline-color;
+                position: absolute;
+                top: 50%;
+                left: 30px;
+                transform: translateY(-50%);
+            }
+            i.fa-user, i.fa-users, i.fa-envelope, .fa-key {
+                font-size: 14px;
+                position: absolute;
+                top: 50%;
+                transform: translateY(-50%);
+                margin-left: 20px;
+            }
+            input {
+                padding-left: 68px;
+                width: 100%;
+                height: 100%;
+                -moz-border-radius: 6px;
+                -webkit-border-radius: 6px;
+                border-radius: 6px;
+                border: none;
+            }
+            input::-webkit-input-placeholder {
+                color: $form-placeholder;
+            }
+            input:-moz-placeholder {
+                color: $form-placeholder;
+            }
+            input::-moz-placeholder {
+                color: $form-placeholder;
+            }
+            input:-ms-input-placeholder {
+                color: $form-placeholder;
+            }
+        }
+    }
+}
+

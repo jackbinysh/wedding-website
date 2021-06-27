@@ -1,5 +1,7 @@
 {% include css/bootstrap.min.css %}
+
 {% include css/agency.css %}
+
 
 a {
 	text-decoration: underline;
@@ -25,10 +27,6 @@ a {
 
 .image-row {
 	margin-top: 20px;
-}
-
-#rsvp {
-	padding-top: 100px;
 }
 
 .header-img {
@@ -75,3 +73,5 @@ section#venue {
 section#venue h2 {
 	color: #fff;
 }
+
+{% include css/rsvp.css %}
