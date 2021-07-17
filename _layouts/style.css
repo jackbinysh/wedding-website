@@ -2,6 +2,8 @@
 
 {% include css/agency.css %}
 
+{% include css/rsvp.css %}
+
 
 a {
 	text-decoration: underline;
@@ -64,14 +66,13 @@ a {
 
 }
 
-section#venue {
+section#schedule {
     background-color: #222;
     background-position: center;
     background-repeat: no-repeat;
     color: #e8e8e8;
 }
-section#venue h2 {
+section#schedule h2 {
 	color: #fff;
 }
 
-{% include css/rsvp.css %}
