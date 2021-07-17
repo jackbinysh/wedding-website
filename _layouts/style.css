@@ -66,8 +66,9 @@ a {
 
 }
 
+
 section#schedule {
-    background-color: #222;
+    background-color: #{{site.color.secondary-dark}};
     background-position: center;
     background-repeat: no-repeat;
     color: #e8e8e8;
@@ -75,4 +76,5 @@ section#schedule {
 section#schedule h2 {
 	color: #fff;
 }
+
 

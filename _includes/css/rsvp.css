@@ -12,8 +12,8 @@ RSVP form
 
 .btn:hover, .btn:focus {
   color: #fff;
-  border-color: #e8ca6f;
-  background-color: #e8ca6f; }
+  border-color: #77DD77;
+  background-color: #77DD77; }
 
 .btn-white {
   font-size: 13px;
@@ -25,18 +25,18 @@ RSVP form
   border-color: #fff; }
 
 .btn-white:hover, .btn-white:focus {
-  color: #e8ca6f;
-  border-color: #e8ca6f; }
+  color: #77DD77;
+  border-color: #77DD77; }
 
 .btn-fill {
   color: #fff;
-  border: solid 2px #e8ca6f;
+  border: solid 2px #77DD77;
   -moz-border-radius: 40px;
   -webkit-border-radius: 40px;
   border-radius: 40px;
   display: inline-block;
   text-transform: uppercase;
-  background-color: #e8ca6f; }
+  background-color: #77DD77; }
 
 .btn-fill:hover, .btn-fill:focus {
   color: #fff;
@@ -76,7 +76,7 @@ section.features, section.events, section.blog {
     text-align: left;
     position: relative; }
     .rsvp .rsvp-form .form-input-group i {
-      color: #e8ca6f;
+      color: #77DD77;
       font-size: 14px; }
     .rsvp .rsvp-form .form-input-group i:after {
       content: "";

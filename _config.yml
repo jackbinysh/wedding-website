@@ -10,9 +10,10 @@ description: "Jack Binysh and Becky Knott are getting married in Oxford on June 
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 3dbbf0
-  secondary: 2f90b9  
+  primary:  77DD77
+  secondary: 77DD77  
   secondary-dark: 333
+  light-gray: f7f7f7 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
