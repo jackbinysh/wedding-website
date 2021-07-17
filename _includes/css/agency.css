@@ -266,7 +266,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background: url(../img/header-bg-3@2x.jpg);
+    background: url(../img/EJ2_0231.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -344,13 +344,14 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 75px 0;
     }
 }
 
-section#venue {
-    padding-top: 50px;
+/*section#venue {
+    padding-top: 50px; 
 }
+*/
 
 .service-heading {
     margin: 15px 0;
