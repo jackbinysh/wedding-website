@@ -52,8 +52,7 @@ RSVP form
 .btn-margin-right {
   margin-right: 20px; }
 
-section.intro, section.features-extra, section.rsvp {
-  background: #fff; }
+section.intro, section.features-extra, section.rsvp { }
 
 section.features, section.events, section.blog {
   background: #f8f9fd; }
