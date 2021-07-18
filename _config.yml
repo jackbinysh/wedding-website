@@ -13,7 +13,7 @@ color:
   primary:  77DD77
   secondary: 77DD77  
   secondary-dark: 333
-  light-gray: f7f7f7 
+  light-gray: eaeaea 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
