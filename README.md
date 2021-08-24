@@ -1,30 +1,5 @@
-Agency Jekyll theme
+Jack and Becky's Wedding Website
 ====================
 
-Agency theme based on [Agency bootstrap theme ](http://startbootstrap.com/templates/agency/)
+A wedding website for Jack and Becky's wedding, 25th June 2022. Knocked together from Pretz/wedding-website, with an RSVP form stolen from rampatra/wedding-website, and their [helpful blog](blog.rampatra.com/wedding-website)
 
-# How to use
-
-###Portfolio 
-
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
