@@ -13,7 +13,10 @@ $(function(){
           $('#alert-wrapper').html(alert_markup('danger', data.message)); 
         } else {
           $('#alert-wrapper').html('');
-          $('#rsvp-modal').modal('show');
+
+          // Change the Submit Button text
+          SubmitButton=document.getElementById("SubmitButton")
+          SubmitButton.innerHTML="Thanks, submission sent!"
         }
       })
       .fail(function (data) {
